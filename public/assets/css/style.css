@@ -1,0 +1,46 @@
+
+
+
+/* entier body */
+.body{
+    text-align: center;
+}
+
+
+/* middle box */
+.middle{
+    margin-right: auto;
+    margin-left: auto;
+    height:1000px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+
+/* bar */
+.bar{
+    width:6px;
+    background-color:gray;
+}
+/* right box */
+.side{
+    color: gray;
+    height:1000px;
+    font-size: 20px;
+}
+
+
+/* font middle */
+.main{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+/* font side */
+.side{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+}
+
+.smallfont{
+    font-size: 15px;
+}
